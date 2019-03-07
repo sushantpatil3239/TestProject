@@ -1,0 +1,12 @@
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\bin\Debug\netstandard2.0\ValidationSample.deps.json
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\bin\Debug\netstandard2.0\ValidationSample.dll
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\bin\Debug\netstandard2.0\ValidationSample.pdb
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.csprojAssemblyReference.cache
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.csproj.CoreCompileInputs.cache
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.AssemblyInfoInputs.cache
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.AssemblyInfo.cs
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.dll
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\ValidationSample.pdb
+C:\Users\sushant.patil\source\repos\ValidationSample\ValidationSample\ValidationSample\obj\Debug\netstandard2.0\XamlC.stamp

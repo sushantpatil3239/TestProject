@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ValidationSample"
+             x:Class="ValidationSample.MainPage"
+             xmlns:validator="clr-namespace:ValidationSample.Validation">
+
+    <StackLayout x:Name="Container">
+        <validator:ValidatableContainer ValidationProperty="Text" Validator="{Binding RequiredFieldValidator}">
+            <validator:ValidatableContainer.View>
+                <Entry />
+            </validator:ValidatableContainer.View>
+        </validator:ValidatableContainer>
+
+        <validator:ValidatableContainer ValidationProperty="Text" Validator="{Binding RequiredFieldValidator}">
+            <validator:ValidatableContainer.View>
+                <Entry />
+            </validator:ValidatableContainer.View>
+        </validator:ValidatableContainer>
+
+        <validator:ValidatableContainer ValidationProperty="Text" Validator="{Binding RequiredFieldValidator}">
+            <validator:ValidatableContainer.View>
+                <Entry />
+            </validator:ValidatableContainer.View>
+        </validator:ValidatableContainer>
+
+        <validator:ValidatableContainer ValidationProperty="Text" Validator="{Binding RequiredFieldValidator}">
+            <validator:ValidatableContainer.View>
+                <Entry />
+            </validator:ValidatableContainer.View>
+        </validator:ValidatableContainer>
+
+        <validator:ValidatableContainer ValidationProperty="Text" Validator="{Binding RequiredFieldValidator}">
+            <validator:ValidatableContainer.View>
+                <Entry />
+            </validator:ValidatableContainer.View>
+        </validator:ValidatableContainer>
+        <Button Text="Click Me!" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
